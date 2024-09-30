@@ -1,0 +1,5 @@
+name,ring,quadrant
+Storage Account,adopt,Azure service
+Key Vault,adopt,Azure service
+Gitlab,adopt,Source Code Management
+Container Registry,adopt,Azure Service
