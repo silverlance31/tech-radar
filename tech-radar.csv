@@ -1,5 +1,5 @@
 name,ring,quadrant,isNew,description
-Storage Account,adopt,Azure service,FALSE,""
-Key Vault,adopt,Azure service,FALSE,""
-Gitlab,adopt,Source Code Management,FALSE,""
-Container Registry,adopt,Azure Service,FALSE,""
+Storage Account,adopt,platforms,FALSE,""
+Key Vault,adopt,platforms,FALSE,""
+Gitlab,adopt,platforms,FALSE,""
+Container Registry,adopt,platforms,FALSE,""
